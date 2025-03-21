@@ -16,4 +16,4 @@ services:
 
   database:
     environment:
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
